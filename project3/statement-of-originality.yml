@@ -1,0 +1,17 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp2300/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: "Code for converting MIDI note to frequency is taken from the link below."
+    url: "https://gitlab.cecs.anu.edu.au/u7233149/comp2300-2021-assignment-2/-/tree/part-1"
+    licence: "MIT License"
+
+# sign *your* name and uid here
+name: "Kai Hirota"
+uid: u7233149

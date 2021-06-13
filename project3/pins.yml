@@ -1,0 +1,12 @@
+# Please fill in the pin connections required for your submission below
+# eg.
+# connections:
+#  - PA0 -> PB1
+#  - PB2 -> PH3
+#  - etc.
+
+# MAKE SURE this is filled out and UP TO DATE come submission time
+connections:
+  - PE12 -> PH0 # control line
+  - PE13 -> PH1 # clock line
+  - PD0 -> PE14 # data line

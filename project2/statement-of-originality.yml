@@ -1,0 +1,19 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp2300/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: fpu_init function is based on an answer from StackOverlow.
+    url: "https://stackoverflow.com/questions/43882131/arm-assembly-floating-point"
+    licence: CC BY-SA
+
+
+# sign *your* name and uid here
+name: Kai Hirota
+uid: u7233149
